@@ -1,0 +1,13 @@
+C:\Users\anthony\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\anthony\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\anthony\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\anthony\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\anthony\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WebDriver.dll
+C:\Users\anthony\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WebDriver.xml
+C:\Users\anthony\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\anthony\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LazyCom v2.exe.config
+C:\Users\anthony\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LazyCom v2.exe
+C:\Users\anthony\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LazyCom v2.pdb
+C:\Users\anthony\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\LazyCom v2.exe
+C:\Users\anthony\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\LazyCom v2.pdb
+C:\Users\anthony\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\LazyCom.Properties.Resources.resources
